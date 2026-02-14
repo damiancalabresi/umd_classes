@@ -1,6 +1,16 @@
-# Introduction to Bayesian Optimization
+---
+title: "Introduction to Bayesian Optimization"
+authors:
+  - gpsaggese
+date: 2026-02-14
+description:
+categories:
+  - Causal AI
+---
 
-*Every experiment costs time and money. Bayesian Optimization helps you run fewer of them, and make each one count. In this post, I'll walk you through the core ideas behind this powerful technique and show you why it deserves a spot in your optimization toolkit.*
+TL;DR: Running blind experiments is expensive. Bayesian Optimization predicts where to look next and saves you millions.
+
+<!-- more -->
 
 ## Introduction
 
